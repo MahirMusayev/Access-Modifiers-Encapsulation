@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\Access Modifiers, Encapsulation Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F0415-4E10-4598-A8A4-0B70B1CA6596}|Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task.csproj|c:\\users\\heydar\\desktop\\access modifiers, encapsulation task\\access modifiers, encapsulation task\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F0415-4E10-4598-A8A4-0B70B1CA6596}|Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task.csproj|solutionrelative:access modifiers, encapsulation task\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F0415-4E10-4598-A8A4-0B70B1CA6596}|Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task.csproj|c:\\users\\heydar\\desktop\\access modifiers, encapsulation task\\access modifiers, encapsulation task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F0415-4E10-4598-A8A4-0B70B1CA6596}|Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task.csproj|solutionrelative:access modifiers, encapsulation task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task\\Weapon.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation Task\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task\\Weapon.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation Task\\Weapon.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAwwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:59:10.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task\\Program.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Access Modifiers, Encapsulation Task\\Access Modifiers, Encapsulation Task\\Program.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation Task\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:54:43.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
